@@ -1,0 +1,1 @@
+test asset, place any file in assets/ to compile it into the exe

@@ -1,0 +1,1 @@
+C:\devkitPro\msys2\usr\bin\cmake.exe -S . -B build -DCMAKE_TOOLCHAIN_FILE="/opt/devkitPro/cmake/3DS.cmake"

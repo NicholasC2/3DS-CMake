@@ -1,0 +1,1 @@
+C:\devkitPro\msys2\usr\bin\cmake.exe --build build 
